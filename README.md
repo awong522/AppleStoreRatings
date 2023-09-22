@@ -1,5 +1,6 @@
 Hey!
-Take a look at my SQL Code about the different factors that can makes apps have good ratings.  
+Take a look at my SQL Code about the different factors that can makes apps have good ratings. 
+This dashboard could be helpful for app developers to understand the market and recieve good results.
 
 APPLE STORE ANALYSIS
 
