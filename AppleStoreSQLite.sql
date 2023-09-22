@@ -111,10 +111,5 @@ From (
 Where 
 a.rank = 1
 
---Paid have better ratings
---Apps supporting between 10 and 30 languages have better ratings
---Finance and book apps have low ratings
---Apps with a longer description have better ratings
---A new app should aim for an average rating above 3.5
---Games and entertainment have high competition
+
 	
