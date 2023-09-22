@@ -1,3 +1,6 @@
+Hey!
+Take a look at my SQL Code about the different factors that can makes apps have good ratings.  
+
 APPLE STORE ANALYSIS
 
 1. Paid Apps have better ratings
